@@ -1,0 +1,9 @@
+body {
+  font-family: 'Amaranth', cursive;
+  font-family: 'Amaranth', sans-serif;
+}
+
+:root {
+  --d-green: #093824;
+  --l-green: #6C9A8B;
+} 
